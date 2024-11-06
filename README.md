@@ -10,9 +10,9 @@ Power BI is a bussiness analytics tool developed by Microsoft that enables users
 
 ### Tools Used
 Tools Used:
-Excel for data cleaning and analysis.
-SQL for querying and data manipulation.
-Power BI for visualization and reporting.**
+- Excel for data cleaning and analysis.
+- SQL for querying and data manipulation.
+- Power BI for visualization and reporting.**
 
 ### Visualising Sales Data with Power BI
 Power BI Data Preparation
