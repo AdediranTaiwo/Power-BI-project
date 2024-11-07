@@ -1,0 +1,44 @@
+﻿----------------------- Page 1-----------------------
+
+                                                                                         Power BI Desktop 
+
+                                                           CAPSTONE_PROJECT 1 
+                                                                   SALES DATA 
+
+             SUM OF TOTAL SALE                                                      Region 
+
+                 387K                                        --                  East               North 
+
+                                                             South               West 
+
+     Count of Region by UnitPrice                                   Sum of Quantity by Product                                    Count of Customer  Id by Product 
+
+                496   496    496         496    497 
+                                                                                                                                              993           992 
+                                                                 2K (20.01%) 
+                                                                                                                              1,000 
+
+n                                                                                                                          d 
+                                                                                                                           I 
+o  400                                                                                                                     r  
+i 
+g                                                                                                                          e 
+e                                                                                                           Product        m 
+                                                                                                                           o 
+R                                                                                                                          t 
+                                                                                                                           s 
+f                                                                                                             Shirt        u                                              496 
+o                                                                                                                          C 
+                                                                                                                           f    500 
+t                                                                                                             Hat          o  
+n 
+   200                                                                                                                     t 
+ u                                                                                                                         n 
+o                                                                                                                          u 
+                                                                                                              Jacket       o 
+C                                                                                                                          C 
+
+                                                                                               6K 
+     0                                                          3K (28%)                       (51.99%)                           0 
+           0                              50                                                                                                 Jacket         Shirt         Hat 
+                         UnitPrice                                                                                                                         Product 
