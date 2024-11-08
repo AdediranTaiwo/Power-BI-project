@@ -3,10 +3,14 @@
 ## Project 1 (Sales Data)
 
 ## Introduction
-
+---
 Power BI is a bussiness analytics tool developed by Microsoft that enables users to connect, transform, and visualize data from various sources. It offers a powerful suite of tools for data preparation, interactive reports and real-time dashboards, making it easier to gain insights and make data-driven decisions. With Power BI, uses can connect t a wide range of data sources, clean and model data and create visually engaging reports that can be shared across teams or embedded into applications. 
-
+"_Disclamer_" : All datasets and reports do not represent any company, institution or country, but just a dummy datasets to demostrate capabilities on Power BI. 
+---
 ### Problem Statement 
+1. Which Region has th highest sale
+2. What is the total sale for all the regions.
+3. Which of the products has the highest quantity been solve
 
 ### Overview 
 
