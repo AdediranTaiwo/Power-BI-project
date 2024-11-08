@@ -9,9 +9,10 @@ Power BI is a bussiness analytics tool developed by Microsoft that enables users
 "_Disclamer_" : All datasets and reports do not represent any company, institution or country, but just a dummy datasets to demostrate capabilities on Power BI. 
 ---
 ### Problem Statement 
-1. Which Region has the highest sale
+1. Which Region has the highest sale.
 2. What is the total sale for all the regions.
-3. Which of the products has the highest quantity been sold
+3. Which of the products has the highest quantity been sold.
+4. How many customers patronize the company.
 
 ### Overview
 This project is a Sale project that illustrate a sale data assumed to be for an organization which features few of the organiztion data such as the Customer ID, Name, Producy , Quantity an so on..and relationships are created between them.
@@ -25,12 +26,11 @@ This project is a Sale project that illustrate a sale data assumed to be for an 
 
 ### Tools Used
 Tools Used:
-- Excel for data cleaning and analysis.
-- SQL for querying and data manipulation.
-- Power BI for visualization and reporting.**
+- Excel for data cleaning and analysis.[Download Here](htts://microsoft.com)
+- Power BI for visualization and reporting. [Download Here](htts://power BI.com)
 
 ### Data Sources  
-The primary source of this data is the sales data produced by the company
+The primary source of this data is the sales data produced by the company.
 
 ### Data Transformation and Cleaning
 
@@ -42,7 +42,7 @@ The primary source of this data is the sales data produced by the company
 - Created a measure to calculate total number of Customers.
 
 ### Data Visualization
-The result comprise of a page which is tyhe sales data result.
+The result comprise of a page which is the sales data result.
 
 ![Screenshot 2024-11-08 144856](https://github.com/user-attachments/assets/cb6b2675-b03c-4dd6-93cf-8bf54ba1e39e)
 
@@ -55,8 +55,7 @@ Conclusion /Results
 - The least amount of sales comes from the West 🥏  
 
 Reccomendation 
-We could suggest that a high level of awareness be carried out at the southen part of the country in order to increase the customer rate also a survey should be carried out at the western part of the country to know which product they prefered most and the company will focus more in those products.
-
+We could suggest that a high level of awareness be carried out at the Western part of the country in order to increase the customer rate, also a survey should be carried out at the western part of the country to know which product they prefered most and the company will focus more on those products.
 
 #THANK YOU 👍.
  
