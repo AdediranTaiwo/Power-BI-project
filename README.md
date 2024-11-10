@@ -62,3 +62,4 @@ We could suggest that a high level of awareness be carried out at the Western pa
 
 
 
+![Screenshot 2024-11-09 213508](https://github.com/user-attachments/assets/56c7ecb4-0147-4f96-add8-69bf24e56d7c)
