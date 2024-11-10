@@ -26,8 +26,8 @@ This project is a Sale project that illustrate a sale data assumed to be for an 
 
 ### Tools Used
 Tools Used:
-- Excel for data cleaning and analysis.[Download Here](htts://microsoft.com)
-- Power BI for visualization and reporting. [Download Here](htts://power BI.com)
+- Excel for data cleaning and analysis.[Download Here](https://microsoft.com)
+- Power BI for visualization and reporting. [Download Here](https://powerBI.com)
 
 ### Data Sources  
 The primary source of this data is the sales data produced by the company.
@@ -60,6 +60,14 @@ We could suggest that a high level of awareness be carried out at the Western pa
 #THANK YOU 👍.
  
 
+## Project 2 (Customer Data)
 
+project Statement
+1. How many customers does the company has.
+2. Which of the regions has yhe highest subscription
+3. what is the total Revenue
+
+## Overview
+The data used in this project is a Customer data which is assumed to be for an organization and it contains the Customers name, Oder ID, subscription type, subscription start, Region, Revenue and so on.
 
 ![Screenshot 2024-11-09 213508](https://github.com/user-attachments/assets/56c7ecb4-0147-4f96-add8-69bf24e56d7c)
