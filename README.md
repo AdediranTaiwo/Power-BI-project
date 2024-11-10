@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Power BI is a bussiness analytics tool developed by Microsoft that enables users to connect, transform, and visualize data from various sources. It offers a powerful suite of tools for data preparation, interactive reports and real-time dashboards, making it easier to gain insights and make data-driven decisions. With Power BI, uses can connect t a wide range of data sources, clean and model data and create visually engaging reports that can be shared across teams or embedded into applications. 
+Power BI is a bussiness analytics tool developed by Microsoft that enables users to connect, transform, and visualize data from various sources. It offers a powerful suite of tools for data preparation, interactive reports and real-time dashboards, making it easier to gain insights and make data-driven decisions. With Power BI, users can connect to a wide range of data sources, clean and model data and create visually engaging reports that can be shared across teams or embedded into applications. 
 
 "_Disclamer_" : All datasets and reports do not represent any company, institution or country, but just a dummy datasets to demostrate capabilities on Power BI. 
 ---
@@ -69,5 +69,19 @@ project Statement
 
 ## Overview
 The data used in this project is a Customer data which is assumed to be for an organization and it contains the Customers name, Oder ID, subscription type, subscription start, Region, Revenue and so on.
+
+### skills/ concepts demostrated
+The following powerBI features are incorporated 
+1. Measures
+2. Filters
+3. Page navigation
+4. Button
+
+### Tools used
+- Excel: This is used in cleaning the data. [Download Here](https://microsoft.com)
+- powerBI:It is used for visualizing and reporting the data [Download Here](https://Microsoft .com)
+
+### Data Sources 
+
 
 ![Screenshot 2024-11-09 213508](https://github.com/user-attachments/assets/56c7ecb4-0147-4f96-add8-69bf24e56d7c)
